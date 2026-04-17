@@ -5,7 +5,7 @@ I'm an **Untitled Programmer**. I program stuff (duh), and yeah, here’s some i
 ## Information
 
 **Q1: What am I currently working on?**  
-A1: Nothing.
+A1: Currently Working on a project called : "CSP (C++ Studio Project)"
 
 **Q2: What languages do I know as a programmer?**  
 A2:  
