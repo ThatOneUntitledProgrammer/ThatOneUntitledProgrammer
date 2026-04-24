@@ -5,7 +5,8 @@ I'm an **Untitled Programmer**. I program stuff (duh), and yeah, here’s some i
 ## Information
 
 **Q1: What am I currently working on?**  
-A1: something.
+A1: **something**
+
 **Q2: What languages do I know as a programmer?**  
 A2:  
 - C++  
